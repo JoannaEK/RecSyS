@@ -1,0 +1,16 @@
+{
+  "model": "subset_m3_1",
+  "method": "typical_weighted",
+  "seed": 1,
+  "n_users": 62,
+  "n_added": 21,
+  "features": [
+    "vi_tx_cnt"
+  ],
+  "windows": {
+    "vi_tx_cnt": 283
+  },
+  "roc": 0.927124,
+  "pr": 0.71749,
+  "horizon": 7
+}
