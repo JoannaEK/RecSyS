@@ -1,0 +1,41 @@
+﻿group;features;param;value;roc;pr;selected
+user;"user_tx_cnt; user_avg_active_day_gap; user_avg_tx";n;7;0.973181;0.889847;1
+user;"user_tx_cnt; user_avg_active_day_gap; user_avg_tx";n;185;0.965845;0.879186;0
+user;"user_tx_cnt; user_avg_active_day_gap; user_avg_tx";n;363;0.966758;0.884758;0
+user;"user_tx_cnt; user_avg_active_day_gap; user_avg_tx";n;541;0.967403;0.885084;0
+user;"user_tx_cnt; user_avg_active_day_gap; user_avg_tx";n;719;0.968569;0.889506;0
+item;"item_tx_cnt; item_avg_active_day_gap; item_repeat_purchase_rate; item_avg_tx";m;7;0.97049;0.89858;1
+item;"item_tx_cnt; item_avg_active_day_gap; item_repeat_purchase_rate; item_avg_tx";m;185;0.966406;0.885459;0
+item;"item_tx_cnt; item_avg_active_day_gap; item_repeat_purchase_rate; item_avg_tx";m;363;0.966758;0.884758;0
+item;"item_tx_cnt; item_avg_active_day_gap; item_repeat_purchase_rate; item_avg_tx";m;541;0.967655;0.885264;0
+item;"item_tx_cnt; item_avg_active_day_gap; item_repeat_purchase_rate; item_avg_tx";m;719;0.966943;0.883027;0
+item_cat;"cat_tx_cnt; cat_avg_active_day_gap; cat_repeat_purchase_rate; cat_avg_tx";k;7;0.966786;0.884011;0
+item_cat;"cat_tx_cnt; cat_avg_active_day_gap; cat_repeat_purchase_rate; cat_avg_tx";k;185;0.966748;0.883471;0
+item_cat;"cat_tx_cnt; cat_avg_active_day_gap; cat_repeat_purchase_rate; cat_avg_tx";k;363;0.966758;0.884758;0
+item_cat;"cat_tx_cnt; cat_avg_active_day_gap; cat_repeat_purchase_rate; cat_avg_tx";k;541;0.967404;0.885819;1
+item_cat;"cat_tx_cnt; cat_avg_active_day_gap; cat_repeat_purchase_rate; cat_avg_tx";k;719;0.966296;0.882466;0
+visitor_cat;"vcat_tx_cnt; vcat_avg_active_day_gap; vcat_repeat_purchase_rate; vcat_avg_tx";x;7;0.967088;0.885014;0
+visitor_cat;"vcat_tx_cnt; vcat_avg_active_day_gap; vcat_repeat_purchase_rate; vcat_avg_tx";x;185;0.967415;0.88643;1
+visitor_cat;"vcat_tx_cnt; vcat_avg_active_day_gap; vcat_repeat_purchase_rate; vcat_avg_tx";x;363;0.966758;0.884758;0
+visitor_cat;"vcat_tx_cnt; vcat_avg_active_day_gap; vcat_repeat_purchase_rate; vcat_avg_tx";x;541;0.967221;0.886598;0
+visitor_cat;"vcat_tx_cnt; vcat_avg_active_day_gap; vcat_repeat_purchase_rate; vcat_avg_tx";x;719;0.96681;0.885926;0
+vi;vi_tx_cnt;q;7;0.992743;0.964277;1
+vi;vi_tx_cnt;q;185;0.974433;0.903222;0
+vi;vi_tx_cnt;q;363;0.966758;0.884758;0
+vi;vi_tx_cnt;q;541;0.966203;0.876686;0
+vi;vi_tx_cnt;q;719;0.966895;0.872377;0
+vc;vc_tx_cnt;s;7;0.977777;0.910657;1
+vc;vc_tx_cnt;s;185;0.967333;0.887316;0
+vc;vc_tx_cnt;s;363;0.966758;0.884758;0
+vc;vc_tx_cnt;s;541;0.966575;0.880793;0
+vc;vc_tx_cnt;s;719;0.967109;0.882459;0
+ic;ic_tx_cnt;z;7;0.971265;0.898082;1
+ic;ic_tx_cnt;z;185;0.967878;0.890072;0
+ic;ic_tx_cnt;z;363;0.966758;0.884758;0
+ic;ic_tx_cnt;z;541;0.967355;0.886156;0
+ic;ic_tx_cnt;z;719;0.967019;0.884727;0
+ii;ii_co_purchase;u;7;0.975913;0.905006;1
+ii;ii_co_purchase;u;185;0.967663;0.886524;0
+ii;ii_co_purchase;u;363;0.966758;0.884758;0
+ii;ii_co_purchase;u;541;0.966877;0.884088;0
+ii;ii_co_purchase;u;719;0.966265;0.882603;0
