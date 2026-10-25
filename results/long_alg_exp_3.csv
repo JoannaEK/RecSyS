@@ -1,0 +1,5 @@
+﻿feature;group;param;window;grid_best_roc;grid_best_pr;changeable;significant
+user_tx_cnt;user;n;7;0.980222;0.918081;1;1
+user_avg_active_day_gap;user;n;719;0.970582;0.89056;1;1
+user_avg_tx;user;n;7;0.980222;0.918081;1;1
+vi_tx_cnt;vi;q;7;0.994379;0.971712;1;1
