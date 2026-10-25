@@ -1,0 +1,20 @@
+{
+  "model": "subset_m3_2",
+  "method": "typical_weighted",
+  "seed": 2,
+  "n_users": 62,
+  "n_added": 19,
+  "features": [
+    "user_tx_cnt",
+    "user_avg_active_day_gap",
+    "user_avg_tx"
+  ],
+  "windows": {
+    "user_tx_cnt": 363,
+    "user_avg_active_day_gap": 443,
+    "user_avg_tx": 363
+  },
+  "roc": 0.924112,
+  "pr": 0.739649,
+  "horizon": 7
+}
