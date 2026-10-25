@@ -1,0 +1,18 @@
+{
+  "features": [
+    "user_avg_active_day_gap",
+    "vi_tx_cnt"
+  ],
+  "windows": {
+    "user_avg_active_day_gap": 719,
+    "vi_tx_cnt": 7
+  },
+  "params": {
+    "user_avg_active_day_gap": "n",
+    "vi_tx_cnt": "q"
+  },
+  "roc": 0.99188,
+  "pr": 0.958283,
+  "iterations": 3,
+  "horizon": 7
+}
